@@ -1,5 +1,7 @@
 Unemployment Analysis using Python
+
 Overview
+
 This project dives into the impact of Covid-19 on employment trends. Using Python and specialized data analysis tools, we uncover insights into how the pandemic affected job markets in different regions.
 
 Key Findings
@@ -10,6 +12,7 @@ Predicting Future Trends: We explore how far the unemployment rate might rise in
 Regional Disparities: Notably, the North region showed the highest average unemployment rate at 15.89%. Post-lockdown, states like Puducherry, Jharkhand, Bihar, Haryana, and Tripura witnessed substantial spikes in unemployment rates.
 
 How to Use This Repository
+
 Dataset: The dataset used for this analysis is available here. You can download it and analyze it using Python.
 
 Code: The Python scripts used for this analysis can be found in the scripts directory.
